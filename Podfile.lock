@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.9.1)
+  - DropDown (2.3.13)
+  - PDFReader (2.5.1)
+  - Realm (10.25.1):
+    - Realm/Headers (= 10.25.1)
+  - Realm/Headers (10.25.1)
+  - RealmSwift (10.25.1):
+    - Realm (= 10.25.1)
+  - SwiftSoup (2.4.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - DropDown
+  - PDFReader
+  - RealmSwift
+  - SwiftSoup
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DropDown
+    - PDFReader
+    - Realm
+    - RealmSwift
+    - SwiftSoup
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  PDFReader: 2c4a845d0560f33221cf911516e3b700967680f6
+  Realm: 1a6e9b4f6983711655d8c0bcb6d2d29c3afbb1f3
+  RealmSwift: e72669550d27082aa4fad5d176f5076cfe806245
+  SwiftSoup: 7589ceac3b38cef742a96981cfe2b14ba55ce1e3
+
+PODFILE CHECKSUM: a8c7a5c29013a333f9f90e8ec3b264c38ec9daa7
+
+COCOAPODS: 1.11.3
