@@ -32,11 +32,9 @@ Aplikacja mobilna iOS parsująca stronę www.arxiv.org, czyli elektronicznego ar
   
 <!-- USAGE EXAMPLES -->
 ## Prezentacja
-<center>
-
-![alt text for screen readers](http://drive.google.com/uc?export=view&id=1srbUxX-L9N-TTpIL74p6Mb2D4ScwarF5 =450x890)
-
-</center>
+<p align="center">
+    <img src="http://drive.google.com/uc?export=view&id=1srbUxX-L9N-TTpIL74p6Mb2D4ScwarF5" alt="Logo" width="450" height="890">
+</p>
 
 ## License
 
